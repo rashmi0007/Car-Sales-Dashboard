@@ -27,8 +27,13 @@ This dashboard is designed to empower car dealership companies with comprehensiv
 ## 📈 KPI Overview:
 
   YTD Total Sales
+  
   YOY Growth in Total Sales
+  
   YTD Average Price
+  
   YOY Growth in Average Price
+  
   YTD Cars Sold
+  
   YOY Growth in Cars Sold
