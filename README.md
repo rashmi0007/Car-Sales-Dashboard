@@ -13,9 +13,9 @@ This dashboard is designed to empower car dealership companies with comprehensiv
 ▪ PowerPoint (For Presentation and Insight)
 
 ## Actions Taken:
-1. Data cleaning using [PySpark](https://github.com/rashmi0007/Car_Sales_Dashboard/blob/main_branch/Data_Cleaning_using_PySpark.html) in databricks.
+1. Cleaning [raw data](https://github.com/rashmi0007/Car_Sales_Dashboard/blob/main_branch/CarSales_raw_data.csv) using [PySpark](https://github.com/rashmi0007/Car_Sales_Dashboard/blob/main_branch/Data_Cleaning_using_PySpark.html) in databricks.
 
-2. Loading the transformed dataset into SQL Server.
+2. Loading the transformed [dataset](https://github.com/rashmi0007/Car_Sales_Dashboard/blob/main_branch/Transformed_Data_car_sales.csv) into SQL Server.
 
 3. Connecting the SQL Server Database with Power Bi: Defining the useful KPIs, Creating insightful chart.
 
