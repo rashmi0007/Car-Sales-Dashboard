@@ -24,4 +24,11 @@ This dashboard is designed to empower car dealership companies with comprehensiv
 
 3. Connecting the SQL Server Database with Power Bi: Defining the useful KPIs, Creating insightful chart.
 
+## 📈 KPI Overview:
 
+  YTD Total Sales
+  YOY Growth in Total Sales
+  YTD Average Price
+  YOY Growth in Average Price
+  YTD Cars Sold
+  YOY Growth in Cars Sold
