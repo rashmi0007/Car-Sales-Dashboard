@@ -1,1 +1,7 @@
 # Car Sales Dashboard
+
+![image](https://github.com/rashmi0007/Car_Sales_Dashboard/assets/87612040/9c3cabcb-9fa0-4044-b0bd-2205c586437c)
+
+![image](https://github.com/rashmi0007/Car_Sales_Dashboard/assets/87612040/da03d695-db84-4175-989d-fbbe191d369c)
+
+
