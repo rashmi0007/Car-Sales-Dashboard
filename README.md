@@ -37,3 +37,11 @@ This dashboard is designed to empower car dealership companies with comprehensiv
   ▪ YTD Cars Sold
   
   ▪ YOY Growth in Cars Sold
+
+## Insights Derived:
+ 
+ ▪ SUV was the most sold till date.
+
+ ▪ Customer's top preference was the Pale White color.
+
+ ▪ The highest number of car's sold by dealers was observed in the Austin and Janesville regions.
